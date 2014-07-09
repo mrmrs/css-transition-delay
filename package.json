@@ -1,0 +1,29 @@
+{
+  "name": "css-transition-delay",
+  "version": "0.0.1",
+  "homepage": "http://github.com/mrmrs/css-transition-delay",
+  "description": "Css module of single purpose classes for transition delay",
+  "keywords": [
+    "css",
+    "oocss",
+    "",
+    ""
+  ],
+  "css-transition-delay": {
+    "type": "git",
+    "url": "http://github.com/mrmrs/css-transition-delay.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mrmrs/repo/issues",
+    "email": "hi@mrmrs.cc"
+  },
+  "author": {
+    "name": "Adam Morse",
+    "email": "hi@mrmrs.cc",
+    "url": "http://mrmrs.cc"
+  },
+  "contributors": [
+    { "name": "Adam Morse", "email": "hi@mrmrs.cc" }
+  ],
+  "license": "MIT"
+}
