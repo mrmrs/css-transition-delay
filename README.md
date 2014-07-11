@@ -30,7 +30,7 @@ or download the css on github and include in your project.
 
 .tdl-i { transition-delay: initial; }
 
-@include break(not-small) {
+@media screen and (min-width: 48em) {
   .tdl0-ns  { transition-delay: 0; }
   .tdl1-ns  { transition-delay: 1s; }
   .tdl2-ns  { transition-delay: 2s; }
@@ -42,7 +42,7 @@ or download the css on github and include in your project.
   .tdl-i-ns { transition-delay: initial; }
 }
 
-@include break(medium) {
+@media screen and (min-width: 48em) and (max-width: 64em) {
   .tdl0-m  { transition-delay: 0; }
   .tdl1-m  { transition-delay: 1s; }
   .tdl2-m  { transition-delay: 2s; }
@@ -54,7 +54,7 @@ or download the css on github and include in your project.
   .tdl-i-m { transition-delay: initial; }
 }
 
-@include break(large) {
+@media screen and (min-width: 64em)  {
   .tdl0-l  { transition-delay: 0; }
   .tdl1-l  { transition-delay: 1s; }
   .tdl2-l  { transition-delay: 2s; }
