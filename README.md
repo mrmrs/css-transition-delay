@@ -20,7 +20,8 @@ View on [npm](https://www.npmjs.org/package/css-transition-delay)
 ## File Size
 
 1.5K transition-delay.css
-1.1K transition-delay.min.css
+1.1K transition-delay.min.css 
+240B minified and gzipped
 
 ## The Code
 ```
