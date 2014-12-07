@@ -1,5 +1,6 @@
 {
   "name": "css-transition-delay",
+  "style": "transition-delay.css",
   "version": "0.0.4",
   "homepage": "http://github.com/mrmrs/css-transition-delay",
   "description": "Css module of single purpose classes for transition delay",
