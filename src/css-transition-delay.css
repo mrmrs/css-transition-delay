@@ -14,15 +14,15 @@
 .tdl-i { transition-delay: initial; }
 
 @media screen and (min-width: 48em) {
-  .tdl0-ns  { transition-delay: 0; }
-  .tdl1-ns  { transition-delay: 1s; }
-  .tdl2-ns  { transition-delay: 2s; }
-  .tdl3-ns  { transition-delay: 3s; }
-  .tdl4-ns  { transition-delay: 4s; }
-  .tdl5-ns  { transition-delay: 8s; }
-  .tdl6-ns  { transition-delay: 16s; }
-  .tdl7-ns  { transition-delay: 32s; }
-  .tdl-i-ns { transition-delay: initial; }
+  .tdl0-s  { transition-delay: 0; }
+  .tdl1-s  { transition-delay: 1s; }
+  .tdl2-s  { transition-delay: 2s; }
+  .tdl3-s  { transition-delay: 3s; }
+  .tdl4-s  { transition-delay: 4s; }
+  .tdl5-s  { transition-delay: 8s; }
+  .tdl6-s  { transition-delay: 16s; }
+  .tdl7-s  { transition-delay: 32s; }
+  .tdl-i-s { transition-delay: initial; }
 }
 
 @media screen and (min-width:48em) and (max-width: 64em) {
